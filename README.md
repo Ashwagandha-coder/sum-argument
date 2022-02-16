@@ -1,1 +1,2 @@
-# sum-argument
+Programm for sum two arguments
+Basic
